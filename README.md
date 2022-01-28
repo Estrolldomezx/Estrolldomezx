@@ -51,7 +51,7 @@
 <!-- YOUTUBE:END -->
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=estrolldomezx&layout=compact&hide=Jupyter Notebook)](https://github.com/estrolldomezx/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=estrolldomezx&layout=compact&hide=JupyterNotebook)](https://github.com/estrolldomezx/github-readme-stats)
 
 ---
 
