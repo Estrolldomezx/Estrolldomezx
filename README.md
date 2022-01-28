@@ -51,12 +51,7 @@
 <!-- YOUTUBE:END -->
 ---
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="Estrolldomezx's GitHub Stats" src="https://github-readme-stats.estrolldomezx.vercel.app/api?username=estrolldomezx&show_icons=true&hide_border=true" />
-
-</details>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=estrolldomezx&layout=compact)](https://github.com/estrolldomezx/github-readme-stats)
 
 ---
 
