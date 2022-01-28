@@ -49,6 +49,14 @@
 - [Sean Kingston - Beautiful Girls](https://youtu.be/MrTz5xjmso4)
 - [真夜中のドア/Stay With Me](https://youtu.be/VEe_yIbW64w)
 <!-- YOUTUBE:END -->
+---
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="Estrolldomezx's GitHub Stats" src="https://github-readme-stats.estrolldomezx.vercel.app/api?username=estrolldomezx&show_icons=true&hide_border=true" />
+
+</details>
 
 ---
 
